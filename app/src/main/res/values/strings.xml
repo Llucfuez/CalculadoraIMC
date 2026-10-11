@@ -1,0 +1,24 @@
+<resources>
+    <string name="title">Calculadora IMC</string>
+    <string name="app_name">CalculadoraIMC</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="Recalculate">Torna a Calcular</string>
+    <string name="result">Tu resultado</string>
+
+    <string name="error">ERROR</string>
+    <string name="result_BajoPeso">Bajo Peso</string>
+    <string name="result_Normal">Normal</string>
+    <string name="result_SobrePeso">Sobrepeso</string>
+    <string name="result_Obesidad">Obesidad</string>
+
+    <string name="height_cm">%1$d cm</string>
+
+    <string name="exemple_height">160 cm</string>
+    <string name="exemple_wheight">60</string>
+    <string name="exemple_age">20</string>
+</resources>
